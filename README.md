@@ -1,3 +1,3 @@
 # Data-Mining
-Nama\t: Krisna Yuwono Saputra
-NIM\t: A11.2021.13236
+Nama\n: Krisna Yuwono Saputra
+NIM : A11.2021.13236
